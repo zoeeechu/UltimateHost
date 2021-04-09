@@ -1,8 +1,4 @@
-
-  _  _  __   ____  __  _  _   __  ____  ____    _  _   __   ____  ____  
- / )( \(  ) (_  _)(  )( \/ ) / _\(_  _)(  __)  / )( \ /  \ / ___)(_  _) 
- ) \/ (/ (_/\ )(   )( / \/ \/    \ )(   ) _)   ) __ ((  O )\___ \  )(   
- \____/\____/(__) (__)\_)(_/\_/\_/(__) (____)  \_)(_/ \__/ (____/ (__)  
+# Ultimate Host!
 
 This Host File is a Combination of multiple hostfiles to make the ULTIMATE HOST FILE
 Credits to: Dan Pollock his host file can be found at: http://someonewhocares.org/hosts/ 
